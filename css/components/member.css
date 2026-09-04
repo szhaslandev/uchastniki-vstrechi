@@ -1,0 +1,17 @@
+.member {
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  height: 52px;
+  padding: 10px 16px 10px 12px;
+  border: var(--border);
+  border-radius: var(--border-radius);
+}
+
+.members__item {
+  display: flex;
+}
+
+.member__image {
+  border-radius: 50%;
+}
