@@ -1,0 +1,12 @@
+.members {
+  max-width: 640px;
+  padding: 24px;
+  background-color: var(--color-light);
+}
+
+.members__list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
